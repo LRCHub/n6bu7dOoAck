@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "土星のポルカ",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2025-12-20T02:33:15.464317Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "土星のポルカ",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_土星のポルカ_ナユタン星人.txt"
+    }
+  ]
+}
